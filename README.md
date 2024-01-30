@@ -1,7 +1,7 @@
 # Assignment-1-Database-Essentials
 
 ## Twitter Database Schema
-
+<img src="Assignment 1 twitter schema.png"> 
 **Purpose:** We need to create a database schema for a Twitter-like application.
 
 ### Table: Users
